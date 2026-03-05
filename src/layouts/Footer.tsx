@@ -103,7 +103,7 @@ export default function Footer() {
               &copy; {currentYear} Portfolio. All rights reserved.
             </p>
             <p className="text-sm text-muted-foreground flex items-center gap-1">
-              Made with <Heart className="w-4 h-4 text-red-500 fill-red-500" /> using React & Tailwind
+              Made with <Heart className="w-4 h-4 text-red-500 fill-red-500" /> by Johnnie
             </p>
           </div>
         </div>
